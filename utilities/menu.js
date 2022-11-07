@@ -16,8 +16,8 @@ let Menu = [
    },
    {
       id : 3,
-      dishName : "Pulav",
-      imgSrc : "./images/pulav.png",
+      dishName : "Khichadi",
+      imgSrc : "./images/khichadi.png",
       type : 'veg',
       price : 120
    },
